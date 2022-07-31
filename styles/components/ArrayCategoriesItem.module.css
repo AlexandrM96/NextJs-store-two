@@ -1,0 +1,11 @@
+.arrayCategoriesItem {
+    background: lavenderblush;
+    border-bottom: 1px solid black;
+    padding: 5px;
+    cursor: pointer;
+    margin: 0px;
+  }
+  
+  .arrayCategoriesItem:hover {
+    background: rgb(208, 196, 200);
+  }

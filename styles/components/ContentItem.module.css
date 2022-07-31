@@ -1,0 +1,42 @@
+.contentItem__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  margin-right: 20px;
+  cursor: pointer;
+  background: #eaeaea;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.contentItem__containerInfo {
+  display: flex;
+}
+
+.contentItem__containerInfo img {
+  width: 80px;
+  margin-right: 10px;
+}
+
+.contentItem__containerPriseAndCart {
+  display: flex;
+  align-items: center;
+}
+.contentItem__containerPriseAndCartButton {
+
+}
+
+.priseAndCartButton__button {
+  background: #0070f3;
+  color: white;
+  border: 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.priseAndCartButton__button:hover {
+  background: #0157c4;
+}
